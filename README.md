@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenniferMagana
 - 👀 I discovered a love for data while working for financial institutions over the last 5 yrs. 
-- 🌱 I’m currently learning data analytics! I'm completing Google's Data Analytics Cert and trying to put my new skills to play
+- 🌱 I’m currently learning data analytics! I'm completing Google's Data Analytics Cert and trying to put my new skills to use
 - 📫 How to reach me ...
       📧 jennifermagana824@gmail.com
       LI LinkedIn.com/in/jennifermagana824
